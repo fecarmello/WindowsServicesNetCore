@@ -1,0 +1,10 @@
+C:\tmp\WindowsServiceNetCore\Console\bin\Debug\netcoreapp2.2\Console.deps.json
+C:\tmp\WindowsServiceNetCore\Console\bin\Debug\netcoreapp2.2\Console.runtimeconfig.json
+C:\tmp\WindowsServiceNetCore\Console\bin\Debug\netcoreapp2.2\Console.runtimeconfig.dev.json
+C:\tmp\WindowsServiceNetCore\Console\bin\Debug\netcoreapp2.2\Console.dll
+C:\tmp\WindowsServiceNetCore\Console\bin\Debug\netcoreapp2.2\Console.pdb
+C:\tmp\WindowsServiceNetCore\Console\obj\Debug\netcoreapp2.2\Console.csproj.CoreCompileInputs.cache
+C:\tmp\WindowsServiceNetCore\Console\obj\Debug\netcoreapp2.2\Console.AssemblyInfoInputs.cache
+C:\tmp\WindowsServiceNetCore\Console\obj\Debug\netcoreapp2.2\Console.AssemblyInfo.cs
+C:\tmp\WindowsServiceNetCore\Console\obj\Debug\netcoreapp2.2\Console.dll
+C:\tmp\WindowsServiceNetCore\Console\obj\Debug\netcoreapp2.2\Console.pdb
